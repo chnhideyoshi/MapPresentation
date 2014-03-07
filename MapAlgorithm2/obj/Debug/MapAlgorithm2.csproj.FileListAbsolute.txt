@@ -1,0 +1,5 @@
+E:\workspacec#\MapPresentation\MapAlgorithm2\obj\Debug\ResolveAssemblyReference.cache
+E:\workspacec#\MapPresentation\MapAlgorithm2\bin\Debug\MapAlgorithm2.dll
+E:\workspacec#\MapPresentation\MapAlgorithm2\bin\Debug\MapAlgorithm2.pdb
+E:\workspacec#\MapPresentation\MapAlgorithm2\obj\Debug\MapAlgorithm2.dll
+E:\workspacec#\MapPresentation\MapAlgorithm2\obj\Debug\MapAlgorithm2.pdb

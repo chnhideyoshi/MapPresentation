@@ -1,0 +1,7 @@
+E:\workspacec#\MapPresentation\MapAlgorithm3\bin\Debug\MapAlgorithm3.dll
+E:\workspacec#\MapPresentation\MapAlgorithm3\bin\Debug\MapAlgorithm3.pdb
+E:\workspacec#\MapPresentation\MapAlgorithm3\bin\Debug\MapAlgorithm2.dll
+E:\workspacec#\MapPresentation\MapAlgorithm3\bin\Debug\MapAlgorithm2.pdb
+E:\workspacec#\MapPresentation\MapAlgorithm3\obj\Debug\ResolveAssemblyReference.cache
+E:\workspacec#\MapPresentation\MapAlgorithm3\obj\Debug\MapAlgorithm3.dll
+E:\workspacec#\MapPresentation\MapAlgorithm3\obj\Debug\MapAlgorithm3.pdb
